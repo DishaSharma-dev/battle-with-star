@@ -1,7 +1,7 @@
 # battle-with-star
 
 ## Demo Link 
-link[https://dishasharma-dev.github.io/battle-with-star/index.html]
+link [https://dishasharma-dev.github.io/battle-with-star/index.html]
 
 ## Game Rules
 
