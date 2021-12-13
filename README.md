@@ -1,5 +1,8 @@
 # battle-with-star
 
+## Demo Link 
+link[https://dishasharma-dev.github.io/battle-with-star/index.html]
+
 ## Game Rules
 
 1. Press  `W`、`A`、`S`、`D` control spacecraft，Press `Space` fire.
